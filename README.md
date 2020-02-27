@@ -5,3 +5,7 @@ This is to note my modifications to Windows and Ubuntu when using them
 Changing Linux to use local time. 
 I did change Windows to use UTC. However, I sign in my Google account on Chrome both Ubuntu and Windows and my Google Account keep "pending". 
 https://help.ubuntu.com/community/UbuntuTime#Multiple_Boot_Systems_Time_Conflicts
+
+### 14:51 Feb 27, 2020
+Download YouTube Videos in terminal using youtube-dl command
+https://itsfoss.com/download-youtube-linux/
