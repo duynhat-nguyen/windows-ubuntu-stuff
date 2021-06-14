@@ -37,4 +37,6 @@ X_train = X_train_flatten/255. -> What does the little period mean? (TensorFlow_
 tf.set_random_seed(1)                             # to keep consistent results
 seed = 3 (2 dòng này có nghĩa là gì) (TensorFlow_Tutorial_v3b_tf2.ipynb Week 7 https://www.coursera.org/specializations/deep-learning)  
 
-https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-command-directly-into-my-clipboard
+https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-command-directly-into-my-clipboard  
+
+lxc
