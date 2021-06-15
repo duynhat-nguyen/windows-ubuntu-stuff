@@ -41,4 +41,4 @@ https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-comma
 
 lxc  
 
-VSCode, Evolution, Edge, RTI, ROS, Stretchly, Theme, Uninstall Games + Thunderbird,
+VSCode, Evolution, Edge (Dark Reader, GoFullPage, Lastpass, Video speed controller, Vimium, Weava), RTI, ROS, Stretchly, Theme, Uninstall Games + Thunderbird,
