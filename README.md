@@ -39,4 +39,6 @@ seed = 3 (2 dòng này có nghĩa là gì) (TensorFlow_Tutorial_v3b_tf2.ipynb We
 
 https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-command-directly-into-my-clipboard  
 
-lxc
+lxc  
+
+VSCode, Evolution, Edge, RTI, ROS, Stretchly, Theme, Uninstall Games + Thunderbird,
