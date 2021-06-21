@@ -43,4 +43,4 @@ lxc
 
 VSCode, Evolution, Edge (Dark Reader, GoFullPage, Lastpass, Video speed controller, Vimium, Weava), RTI, ROS, Stretchly, Tweaks, OBS, DB Browser,  , CommuniTheme Icon suru, Scaling factor 1.2, Uninstall Games + Thunderbird,  
 
-In order to switch between windows of an app, press Alt + `
+In order to switch between windows of an app, press Alt + `  
