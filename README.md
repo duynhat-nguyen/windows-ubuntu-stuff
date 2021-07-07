@@ -48,3 +48,5 @@ In order to switch between windows of an app, press Alt + "`"
 https://tipsonubuntu.com/2019/08/01/drawing-basic-image-editor-similar-microsoft-paint/  
 
 Shorten path of linux: https://unix.stackexchange.com/questions/381113/how-do-i-shorten-the-current-directory-path-shown-on-terminal
+
+VSCode: cmake-format, clang-format
